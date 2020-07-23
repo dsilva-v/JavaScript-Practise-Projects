@@ -1,2 +1,2 @@
-# My-Pet-Projects
-My pet Projects
+# JavaScript-Practise-Projects
+Java Script Practise Projects
